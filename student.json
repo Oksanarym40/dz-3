@@ -2,7 +2,7 @@
 	"student": [
 	{
 		"name": "Joe",
-		"greeting": "Joe \"The Joester\" Thompson",
+		"greeting": "Joe Thompson",
 		"age": 10,
 		"height": 1.88,
 		"married": false,
