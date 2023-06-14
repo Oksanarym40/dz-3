@@ -1,6 +1,5 @@
 {
-	"student": [
-	{
+	"student": [{
 		"name": "Joe",
 		"greeting": "Joe Thompson",
 		"age": 10,
@@ -10,15 +9,12 @@
 		"story": "Joe was born on 1st of April,and this is not a joke",
 		"bio": "Born Went to kindergarten Went to primary school",
 		"friends": "Mary",
-		"enemies":"Harry",
-		"address":[
-		{
+		"enemies": "Harry",
+		"address": [{
 			"number": 123,
 			"steet": "Main st",
-			"city" : "Lviv",
+			"city": "Lviv",
 			"country": "Ukraine"
-		}
-		]
-	}
-	]
-}		
+		}]
+	}]
+}
