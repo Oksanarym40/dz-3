@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <student>
-<student name="Joe">
-<greeting>"Joe Thompson"</greeting>
-<age>10</age>
-<height>1.88</height>
-<married>false</married>
-<children>null</children>
-<story>Joe was born on 1st of April,and this is not a joke</story>
-<bio>Born Went to kindergarten Went to primary school</bio>
-<friend>Mary</friend>
-<enemies>Harry</enemies>
-<addressnumber>123</addressnumber>
-<street>Main st</street>
-<city>Lviv</city>
-<country>Ukraine</country>
-</student>
+  <name>Joe</name>
+  <greeting>Joe Thompson</greeting>
+  <age>10</age>
+  <height>1.88</height>
+  <married>false</married>
+  <children>null</children>
+  <story>Joe was born on 1st of April, and this is not a joke</story>
+  <bio>Born Went to kindergarten Went to primary school</bio>
+  <friend>Mary</friend>
+  <enemies>Harry</enemies>
+  <address>
+    <number>123</number>
+    <street>Main st</street>
+    <city>Lviv</city>
+    <country>Ukraine</country>
+  </address>
 </student>
